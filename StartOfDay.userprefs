@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SoD\Resources\MainWindow.cs">
+    <Files>
+      <File FileName="SoD\Resources\MainWindow.cs" Line="9" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="..\Test\FoT_testBuild\FoT_testBuild\MainWindow.cs" line="152" offsetX="374" offsetY="2558" expression="MainWindow.baseLocation" liveUpdate="False" />
+    <Watch file="..\Test\FoT_testBuild\FoT_testBuild\MainWindow.cs" line="153" offsetX="549" offsetY="2582" expression="tempNameString" liveUpdate="False" />
+    <Watch file="..\Test\FoT_testBuild\FoT_testBuild\Resources\EnvironmentChooser.cs" line="189" offsetX="533" offsetY="3094" expression="enviroID" liveUpdate="False" />
+    <Watch file="..\Test\FoT_testBuild\FoT_testBuild\Resources\EnvironmentChooser.cs" line="323" offsetX="822" offsetY="5463" expression="id" liveUpdate="False" />
+    <Watch file="..\Test\FoT_testBuild\FoT_testBuild\Resources\EnvironmentChooser.cs" line="356" offsetX="476" offsetY="5999" expression="testa" liveUpdate="False" />
+    <Watch file="..\Test\FoT_testBuild\FoT_testBuild\Resources\EnvironmentChooser.cs" line="354" offsetX="476" offsetY="6028" expression="x" liveUpdate="False" />
+    <Watch file="..\Test\FoT_testBuild\FoT_testBuild\Resources\EnvironmentChooser.cs" line="354" offsetX="475" offsetY="5970" expression="words" liveUpdate="False" />
+    <Watch file="..\Test\FoT_testBuild\FoT_testBuild\Resources\EnvironmentChooser.cs" line="116" offsetX="382" offsetY="1980" expression="enviroBools" liveUpdate="False" />
+    <Watch file="..\Test\FoT_testBuild\FoT_testBuild\Resources\EnvironmentChooser.cs" line="331" offsetX="822" offsetY="5499" expression="count" liveUpdate="False" />
+    <Watch file="..\Test\FoT_testBuild\FoT_testBuild\Resources\EnvironmentChooser.cs" line="100" offsetX="531" offsetY="1635" expression="x" liveUpdate="False" />
+    <Watch file="..\Test\FoT_testBuild\FoT_testBuild\Resources\EnvironmentChooser.cs" line="100" offsetX="794" offsetY="1630" expression="disCount" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
